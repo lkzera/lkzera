@@ -1,5 +1,8 @@
 ### Hi there 👋
 #### Hello I'm Lucas Davi, DotNet and PL / SQL developer at FullSoft
+
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkzera&show_icons=true&theme=dracula)
 
 
@@ -9,3 +12,5 @@
 ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Contact
