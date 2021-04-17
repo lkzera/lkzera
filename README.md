@@ -14,4 +14,5 @@
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## About me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=br.linkedin.com/lucas-davi-da-silva-458919177)](br.linkedin.com/lucas-davi-da-silva-458919177)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=br.linkedin.com/lucas-davi-da-silva-458919177)]
