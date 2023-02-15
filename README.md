@@ -4,6 +4,11 @@
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lkzera&show_icons=true&theme=dracula)
+<div>
+<a href="https://github.com/lkzera">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lkzera&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lkzera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
