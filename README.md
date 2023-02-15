@@ -3,8 +3,7 @@
 
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkzera&show_icons=true&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lkzera&show_icons=true&theme=dracula)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
