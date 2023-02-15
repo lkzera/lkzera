@@ -2,8 +2,6 @@
 #### Hello I'm Lucas Davi, DotNet and PL / SQL developer at FullSoft
 
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif">
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lkzera&show_icons=true&theme=dracula)
 <div>
 <a href="https://github.com/lkzera">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lkzera&layout=compact&langs_count=7&theme=dracula"/>
