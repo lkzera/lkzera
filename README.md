@@ -1,4 +1,4 @@
-<h2 align="left">Lucas | Backend Developer | Senior Software Engineer</h2>
+<h2 align="left">I'm Lucas Davi FullStack Developer</h2>
 
 ###
 
